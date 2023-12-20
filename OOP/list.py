@@ -59,7 +59,6 @@ my_list.pop(0)
 pop_timer_setup = """
 from __main__ import MyList
 my_list = MyList()
-my_list.add(1)
 my_list.add(3)
 my_list.add(4)
 """
